@@ -1,0 +1,121 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+ul {
+margin: 0;
+padding: 0;
+}
+
+li {
+    list-style: none;
+    margin: 10px;
+    display: inline;
+}
+
+li a {
+    padding: 5px 100px;
+    margin: 0;
+    border: 0px solid #f00;
+    background: #903;
+    text-decoration: none;
+    color: #fff;
+    /* cantos arredondados */
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+}
+li a:hover {
+    background: #CCC;
+    color: #000; 
+    border-color: #000;
+    
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+header {
+     
+     text-align: center;
+     font-size: 55px;
+
+}
+
+.logo {
+
+}
+
+.titulo{
+
+}
+
+.menu {
+    text-align: justify;
+}
+    
+
+
+.item-menu{
+   
+    
+    
+}
+
+.item-menu a{
+
+}
+
+.item-menu a:hover{
+
+}
+
+.item-menu a:visited{
+
+}
+
+main{
+
+}
+
+section{
+
+}
+
+.titulo-section {
+
+}
+
+.conteudos {
+
+}
+
+.item-conteúdo {
+
+}
+
+.titulo-conteúdo {
+
+}
+
+.imagem-conteúdo {
+
+}
+
+.desc-conteúdo {
+
+}
+
+footer {
+
+}
+
+.logo-rodape {
+
+}
+
+.texto-rodape {
+    
+}

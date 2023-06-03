@@ -1,0 +1,4 @@
+O diretório do projeto está organizado da seguinte maneira:
+- Raiz: com os arquivos html
+- imagens: todas as imagens usadas no site
+- css: arquivos com os estilos aplicados nas págias (reset e style)
